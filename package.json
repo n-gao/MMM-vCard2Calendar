@@ -1,0 +1,23 @@
+{
+  "name": "MMM-vCard2Calendar",
+  "version": "0.1.0",
+  "description": "Pulling birthdays from a CardDav server and serving them as .ics.",
+  "main": "MMM-vCard2Calendar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"Magic",
+    "Mirror\"",
+    "\"Magic",
+    "Mirror",
+    "Module\""
+  ],
+  "author": "Nicholas Gao",
+  "license": "MIT",
+  "dependencies": {
+    "ical.js": "^1.4.0",
+    "moment": "^2.23.0",
+    "uuid": "^8.3.2"
+  }
+}
